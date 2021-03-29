@@ -46,7 +46,7 @@ pybullet==1.9.4
 pycparser==2.18
 pydot==1.2.4
 pyglet==1.3.1
-Pygments==2.2.0
+Pygments==2.7.4
 Pympler==0.5
 PyOpenGL==3.1.0
 pyparsing==2.2.0
